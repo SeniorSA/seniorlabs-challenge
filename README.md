@@ -48,7 +48,7 @@ como “comum” e “spam”. Como você considera os resultados encontrados? J
 #### Output
 
 Você pode utilizar qualquer linguagem de programação e ferramentas de software para extrair as informações das duas etapas do trabalho. Por fim, descreva o trabalho realizado em um artigo com
-uma ou duas páginas no modelo anexo.
+duas ou três páginas no modelo anexo.
 
 Lembre-se de apontar as estatísticas extraídas e de explicar
 o método de classificação utilizado, como a etapa de treinamento e classificação foram executadas,
