@@ -23,6 +23,8 @@ Você pode escolher aquele que mais se identifica ou até mesmo aquele que gosta
     * Referências
 * Código fonte em um repositório do GitHub 
 
+* Enviar a solução para o e-mail: amanda.machado@senior.com.br
+
 ## Preparação 
 
 Nosso pesquisador Leonardo Fiedler preparou um material com várias dicas para se sair bem em desafios técnicos como este. Faça a leitura clicando [neste link](https://dev.to/leonardofiedler/dicas-para-mandar-bem-em-testes-tecnicos-231k). 
